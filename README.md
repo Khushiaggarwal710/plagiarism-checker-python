@@ -1,4 +1,4 @@
-# **This is a plagiarism detector using python difflib.**
+# **Catch the Copycats!: A Python-powered Plagiarism Detector**
 
 <h3>Sample text:</h3>
 <p>
